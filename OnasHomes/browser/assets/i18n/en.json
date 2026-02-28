@@ -473,7 +473,10 @@
     "CREATE_NEW": "Create Order",
     "PAYMENT_STATUS": "Payment Status",
     "FULFILLMENT_STATUS": "Fulfillment Status",
-    "ALL_PAYMENT_STATUSES": "All Payment Statuses"
+    "ALL_PAYMENT_STATUSES": "All Payment Statuses",
+    "EXPORT_INVOICES": "Export Invoices",
+    "INVOICE_TITLE": "Invoice",
+    "NO_UNFULFILLED": "No unfulfilled orders to export"
   },
   "ORDER": {
     "ORDER": "Order",
@@ -502,6 +505,7 @@
     "MARK_PAID_COMPLETE": "Mark as Paid & Complete",
     "SUBTOTAL": "Subtotal",
     "DISCOUNT": "Discount",
+    "DISCOUNT_PH": "Enter discount amount",
     "TAX": "Tax",
     "SHIPPING": "Shipping",
     "TOTAL": "Total",

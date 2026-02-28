@@ -69,7 +69,10 @@
     "CREATE_NEW": "إنشاء طلب",
     "PAYMENT_STATUS": "حالة الدفع",
     "FULFILLMENT_STATUS": "حالة الشحن",
-    "ALL_PAYMENT_STATUSES": "جميع حالات الدفع"
+    "ALL_PAYMENT_STATUSES": "جميع حالات الدفع",
+    "EXPORT_INVOICES": "تصدير الفواتير",
+    "INVOICE_TITLE": "فاتورة",
+    "NO_UNFULFILLED": "لا توجد طلبات غير منفذة للتصدير"
   },
   "ORDER": {
     "ORDER": "طلب",
@@ -99,6 +102,7 @@
     "MARK_PAID_COMPLETE": "تحديد كمدفوع ومكتمل",
     "SUBTOTAL": "المجموع الفرعي",
     "DISCOUNT": "الخصم",
+    "DISCOUNT_PH": "أدخل مبلغ الخصم",
     "TAX": "الضريبة",
     "SHIPPING": "الشحن",
     "CUSTOMER": "العميل",

@@ -1,0 +1,1 @@
+import{o as p}from"./chunk-DIZY3ONG.js";import{J as o,O as i,dc as a}from"./chunk-B2NS7NFJ.js";var n=class t{http=i(a);apiUrl=`${p.apiUrl}/files/upload`;upload(r){let e=new FormData;return e.append("file",r),this.http.post(this.apiUrl,e)}static \u0275fac=function(e){return new(e||t)};static \u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})};export{n as a};
