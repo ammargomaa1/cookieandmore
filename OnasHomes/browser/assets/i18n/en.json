@@ -558,6 +558,9 @@
     "SELECT_PAYMENT_METHOD": "Select Payment Method",
     "PAYMENT_METHOD": "Payment Method",
     "PAYMENT_STATUS": "Payment Status",
+    "DEPOSIT_AMOUNT": "Deposit Amount",
+    "REMAINING_BALANCE": "Remaining Balance",
+    "PARTIALLY_PAID": "Partially Paid",
     "MESSAGES": {
       "LOAD_ERROR": "Failed to load order",
       "ADDRESS_AUTOFILLED": "Address auto-filled from last order",

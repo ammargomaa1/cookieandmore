@@ -154,6 +154,9 @@
     "SELECT_PAYMENT_METHOD": "اختر وسيلة الدفع",
     "PAYMENT_METHOD": "طريقة الدفع",
     "PAYMENT_STATUS": "حالة الدفع",
+    "DEPOSIT_AMOUNT": "مبلغ العربون",
+    "REMAINING_BALANCE": "المبلغ المتبقي",
+    "PARTIALLY_PAID": "مدفوع جزئياً",
     "MESSAGES": {
       "LOAD_ERROR": "فشل تحميل الطلب",
       "ADDRESS_AUTOFILLED": "تم ملء العنوان تلقائيًا من آخر طلب",
