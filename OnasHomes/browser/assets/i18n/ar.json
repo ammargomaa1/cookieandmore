@@ -18,6 +18,7 @@
       "LOAD_ERROR": "فشل تحميل بيانات لوحة التحكم",
       "REVENUE_TODAY": "إيرادات اليوم",
       "REVENUE_MONTH": "إيرادات الشهر",
+      "ORDERS_TOTAL_MONTH": "إجمالي الطلبات الشهرية",
       "TOTAL_ORDERS": "إجمالي الطلبات",
       "PENDING_ORDERS": "الطلبات المعلقة",
       "COMPLETED_ORDERS": "الطلبات المكتملة",
@@ -73,7 +74,6 @@
     "EXPORT_INVOICES": "تصدير الفواتير",
     "INVOICE_TITLE": "فاتورة",
     "NO_UNFULFILLED": "لا توجد طلبات غير منفذة للتصدير"
-    "ALL_PAYMENT_STATUSES": "جميع حالات الدفع"
   },
   "ORDER": {
     "ORDER": "طلب",

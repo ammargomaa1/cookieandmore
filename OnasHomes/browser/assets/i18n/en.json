@@ -18,6 +18,7 @@
       "LOAD_ERROR": "Failed to load dashboard data",
       "REVENUE_TODAY": "Revenue Today",
       "REVENUE_MONTH": "Revenue This Month",
+      "ORDERS_TOTAL_MONTH": "Monthly Orders Total",
       "TOTAL_ORDERS": "Total Orders",
       "PENDING_ORDERS": "Pending Orders",
       "COMPLETED_ORDERS": "Completed Orders",
@@ -476,8 +477,7 @@
     "ALL_PAYMENT_STATUSES": "All Payment Statuses",
     "EXPORT_INVOICES": "Export Invoices",
     "INVOICE_TITLE": "Invoice",
-    "NO_UNFULFILLED": "No unfulfilled orders to export",
-    "ALL_PAYMENT_STATUSES": "All Payment Statuses"
+    "NO_UNFULFILLED": "No unfulfilled orders to export"
   },
   "ORDER": {
     "ORDER": "Order",
