@@ -476,7 +476,8 @@
     "ALL_PAYMENT_STATUSES": "All Payment Statuses",
     "EXPORT_INVOICES": "Export Invoices",
     "INVOICE_TITLE": "Invoice",
-    "NO_UNFULFILLED": "No unfulfilled orders to export"
+    "NO_UNFULFILLED": "No unfulfilled orders to export",
+    "ALL_PAYMENT_STATUSES": "All Payment Statuses"
   },
   "ORDER": {
     "ORDER": "Order",
@@ -561,6 +562,7 @@
     "DEPOSIT_AMOUNT": "Deposit Amount",
     "REMAINING_BALANCE": "Remaining Balance",
     "PARTIALLY_PAID": "Partially Paid",
+    "PARTIALLY_PAID_DESC": "Customer pays a deposit, rest on delivery",
     "MESSAGES": {
       "LOAD_ERROR": "Failed to load order",
       "ADDRESS_AUTOFILLED": "Address auto-filled from last order",

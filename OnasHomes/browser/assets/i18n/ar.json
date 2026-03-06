@@ -73,6 +73,7 @@
     "EXPORT_INVOICES": "تصدير الفواتير",
     "INVOICE_TITLE": "فاتورة",
     "NO_UNFULFILLED": "لا توجد طلبات غير منفذة للتصدير"
+    "ALL_PAYMENT_STATUSES": "جميع حالات الدفع"
   },
   "ORDER": {
     "ORDER": "طلب",
@@ -157,6 +158,7 @@
     "DEPOSIT_AMOUNT": "مبلغ العربون",
     "REMAINING_BALANCE": "المبلغ المتبقي",
     "PARTIALLY_PAID": "مدفوع جزئياً",
+    "PARTIALLY_PAID_DESC": "يدفع العميل عربوناً والباقي عند الاستلام",
     "MESSAGES": {
       "LOAD_ERROR": "فشل تحميل الطلب",
       "ADDRESS_AUTOFILLED": "تم ملء العنوان تلقائيًا من آخر طلب",
