@@ -19,6 +19,7 @@
       "REVENUE_TODAY": "إيرادات اليوم",
       "REVENUE_MONTH": "إيرادات الشهر",
       "ORDERS_TOTAL_MONTH": "إجمالي الطلبات الشهرية",
+      "AOV": "متوسط قيمة الطلب",
       "TOTAL_ORDERS": "إجمالي الطلبات",
       "PENDING_ORDERS": "الطلبات المعلقة",
       "COMPLETED_ORDERS": "الطلبات المكتملة",

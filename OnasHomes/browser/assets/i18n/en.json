@@ -19,6 +19,7 @@
       "REVENUE_TODAY": "Revenue Today",
       "REVENUE_MONTH": "Revenue This Month",
       "ORDERS_TOTAL_MONTH": "Monthly Orders Total",
+      "AOV": "Avg. Order Value",
       "TOTAL_ORDERS": "Total Orders",
       "PENDING_ORDERS": "Pending Orders",
       "COMPLETED_ORDERS": "Completed Orders",
